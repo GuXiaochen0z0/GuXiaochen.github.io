@@ -1,2 +1,2 @@
 # GuXiaochen.github.io
-个人博客
+顾小陈的个人博客
